@@ -69,4 +69,5 @@ October 2023 and October 2025 contain partial-month data. October 2025 contains 
 
 The project includes an interactive Excel dashboard containing KPI cards, sales trends, category and sub-category analysis, regional performance, and payment method analysis.
 
-![Ecommerce_Dashboard]"Dashboard.png"
+![Ecommerce_Dashboard]
+"Dashboard.png"
